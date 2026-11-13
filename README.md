@@ -69,36 +69,67 @@ BSc (Hons) Computer Science
 
 ---
 
-## 💻 Technical Skills
+
+
+## 💻 Tech Stack & Tools
 
 ### Programming Languages
-- Java
-- Python
-- JavaScript
-- C++
-- SQL
-- PL/SQL
 
-### Web Development
-- HTML
-- CSS
-- JavaScript
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,js,cpp" />
+</p>
 
-### Computer Science Fundamentals
-- Data Structures
-- Algorithms
-- Database Design
-- Object-Oriented Programming
-- Computer Networks
-- Software Development
+### Frontend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### Backend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Development Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em"
+  src="https://github-stats-extended.vercel.app/api?username=FORHAD45922&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="180em"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=FORHAD45922&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=FORHAD45922&theme=tokyonight&hide_border=true"/>
+</p>
+
+### Additional Technologies
+
+- SQL
+- PL/SQL
+- Mongoose
+- Data Structures
+- Algorithms
 ## 🚀 Projects
 
 ### 1. Chartered Flight Database Management System
